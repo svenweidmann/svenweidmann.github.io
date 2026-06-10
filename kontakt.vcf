@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:{Weidmann};{Sven};;;
+FN:{Sven} {Weidmann}
+ORG:Volkshochschule (VHS)
+TITLE:Dozent
+EMAIL;TYPE=PREF,INTERNET:{sven.weidmann@vhs.cloud}
+TEL;TYPE=CELL,VOICE:{+49 0}
+URL;TYPE=WORK:{https://svenweidmann.github.io}
+NOTE:VHS-Dozent. Gespeichert über die digitale Visitenkarte.
+END:VCARD
